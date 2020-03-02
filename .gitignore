@@ -1,0 +1,15 @@
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
+
+*/__pycache__/*
+
+.vscode
+mlruns/*
+*/mlruns/*
+
+data/raw/*
+data/interim/*
+data/processed/*
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
